@@ -16,3 +16,4 @@ pcb/**/*.ses
 pcb/**/*.xml
 pcb/**/*.csv
 pcb/**/*-backups
+pcb/**/#auto_saved_files#
